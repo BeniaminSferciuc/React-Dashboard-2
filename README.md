@@ -1,8 +1,14 @@
-#Modern Dashboard built with React, Tailwind and Shadcn/ui
+<div>
+    <h1>Modern Dashboard built with React, Tailwind and Shadcn/ui</h1>
+    <h2 style="margin-top: 1rem">Desktop Preview</h2>
+    <img src="./public/Desktop.png" style="margin-top: .5rem"/>
+    <h2 style="margin-top: 1rem">Tablet Preview</h2>
+    <p align="center">
+      <img src="./public/Tablet.png" style="margin-top: .5rem">
+    </p>
+    <h2 style="margin-top: 1rem">Mobile Preview</h2>
+    <p align="center">
+      <img src="./public/Mobile.png" style="margin-top: .5rem">
+    </p>
+</div>
 
-![Desktop Preview](./public/Desktop.png)
-<p align="center">
-  <img src="./public/Tablet.png" alt="Text alternativ">
-</p>
-
-![Mobile Preview](./public/Mobile.png)
